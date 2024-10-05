@@ -1,0 +1,6 @@
+downloads/
+build
+jdbc:*
+ijtest
+derby.log
+studentdb
